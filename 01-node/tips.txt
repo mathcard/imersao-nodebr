@@ -1,0 +1,2 @@
+v8 js engine - Executa o js
+Camada - Transforma o código js em c
